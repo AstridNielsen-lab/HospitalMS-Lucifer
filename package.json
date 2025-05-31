@@ -1,0 +1,15 @@
+{
+  "name": "hospitalms",
+  "version": "1.0.0",
+  "description": "OncoMedSync is a comprehensive web-based hospital management system specifically designed for oncology centers and cancer treatment facilities. The system provides real-time monitoring of patient vital signs, integrated workflows across hospital departments, and secure management of patient data.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
